@@ -31,7 +31,7 @@ Columns in dataset are
 
 Block Diagram
 
-<img src="https://github.com/anubhavmishra123/depression-suicidal-ideation-detection-NLP/blob/main/blockdiagram.png" width="100" height="200">
+<img src="https://github.com/anubhavmishra123/depression-suicidal-ideation-detection-NLP/blob/main/blockdiagram.png" width="500" height="500">
 
 
 
