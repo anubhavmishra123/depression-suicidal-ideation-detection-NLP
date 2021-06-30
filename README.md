@@ -5,17 +5,28 @@ which can be used to diagnose depression. The main idea of this project is to pr
 
 
 Following Steps are followed for data pre-processing.
+
 •Tokenization
+
 •Removing numeric and special symbols
-•Removing Stop words, 
+
+•Removing Stop words,
+
                 example: Are, The, To, For etc.
+                
 •Lemmatization 
+
                 example: playing-> play
+                
 Text Vectorization using TF-IDF (Term frequency-inverse document frequency)
 
+
 Dataset is collected from Kaggle which is having more than 10 thousand sentences and corresponding emotion depicted in sentence.
+
 Columns in dataset are
+
 1.Label
+
 2.Sentence
 
 
