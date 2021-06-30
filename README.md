@@ -35,6 +35,6 @@ Block Diagram
 
 Front end Created using html, css and Flask 
 
-<img src="https://github.com/anubhavmishra123/depression-suicidal-ideation-detection-NLP-flask/blob/main/ss1.png" width="500" height="500">
+<img src="https://github.com/anubhavmishra123/depression-suicidal-ideation-detection-NLP-flask/blob/main/ss1.png" width="900" height="500">
 
 
