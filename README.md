@@ -29,5 +29,9 @@ Columns in dataset are
 
 2.Sentence
 
+Block Diagram
+
+![](https://github.com/anubhavmishra123/depression-suicidal-ideation-detection-NLP/blob/main/blockdiagram.png) | width=100
+
 
 
